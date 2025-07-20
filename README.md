@@ -2,7 +2,6 @@
 
 A web application for recognizing handwritten characters and digits using a deep learning model trained on the EMNIST dataset.
 
-![EMNIST Character Recognition App](https://via.placeholder.com/800x400?text=EMNIST+Character+Recognition)
 
 ## Features
 
