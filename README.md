@@ -26,7 +26,7 @@ A web application for recognizing handwritten characters and digits using a deep
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Selvarajah-Vinushaanth/EMNIST-Character-Recognition-Web-App.git
    cd Handwritten-Digits
    ```
 
@@ -79,7 +79,6 @@ Handwritten-Digits/
 ├── emnist_cnn_model.keras # Trained model file
 ├── templates/
 │   └── index.html         # Frontend interface
-├── static/                # Static assets (if any)
 ├── requirements.txt       # Python dependencies
 └── README.md              # This file
 ```
